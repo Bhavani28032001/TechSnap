@@ -1,3 +1,1 @@
-# TechSnap
-Internship
-Privacy Policy page
+Privacy Policy
